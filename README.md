@@ -10,5 +10,7 @@ Following are the list of the articles I've found so far.
 4. http://www.amarinfotech.com/why-laravel-is-best-php-framework-in-2016.html
 5. http://www.slideshare.net/Techticsolution/top-10-php-frameworks-in-2016-era-for-developers-techtic-solutions
 6. https://kultprosvet.net/blog/10-best-php-frameworks-web-projects
+7. https://www.webhostface.com/blog/popular-php-frameworks-2015/
+8. https://opensource.com/business/16/6/which-php-framework-right-you
 
 Found more about top PHP framework in 2016? Do fork this repo and make a PR! ^_^
